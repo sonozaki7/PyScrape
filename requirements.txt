@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.1
+fp==0.2
+free_proxy==1.1.0
+google_search_results==2.4.1
+lxml==4.9.1
+pandas==1.5.2
+parsel==1.7.0
+requests==2.28.1
+selenium==4.7.0
+selenium_stealth==1.0.6
+webdriver_manager==3.8.5
