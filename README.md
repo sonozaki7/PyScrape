@@ -1,4 +1,4 @@
-# This is the repo for PyScrape project
+# PyScrape project
 
 PyScrape is based on these libraries
 - Selenium.webdriver
